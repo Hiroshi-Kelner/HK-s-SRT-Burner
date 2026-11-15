@@ -6,9 +6,8 @@ Burn subtitles from an SRT file into a video with the included Python applicatio
 Just run
 ```bash
 cd downloads 
-git clone https://github.com/Hiroshi-Kelner/HK-s-SRT-Burner and all the code should be there in a folder. 
+git clone https://github.com/Hiroshi-Kelner/HK-s-SRT-Burner
 ```
-
 ## Setup
 
 1. Install Python and ensure `python` and `winget` are available in `PATH`.
